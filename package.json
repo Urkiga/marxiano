@@ -1,0 +1,21 @@
+{
+  "name": "eternalwiki",
+  "version": "1.0.0",
+  "description": "Generates a random Wikipedia Script and post it on Dragonchain's Eternal service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dragonchain",
+    "blockchain",
+    "javascript"
+  ],
+  "author": "vaanngs",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.1.0",
+    "axios": "^0.19.0"
+  }
+}
